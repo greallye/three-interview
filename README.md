@@ -12,3 +12,9 @@ Create simple threejs web page, which loads a GLTF file 3D model into the page. 
 
 
 The 3D model file is included in the repository
+
+
+## Example
+![](docs/before.png?raw=true)
+
+![](docs/after.png?raw=true)
