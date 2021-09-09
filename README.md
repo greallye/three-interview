@@ -15,6 +15,8 @@ The 3D model file is included in the repository
 
 
 ## Example
-![](docs/before.png?raw=true)
 
+### Before
+![](docs/before.png?raw=true)
+### After
 ![](docs/after.png?raw=true)
